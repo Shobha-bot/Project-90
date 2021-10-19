@@ -18,3 +18,8 @@ body
     float: none;
     text-align: left;
 }
+
+html
+{
+    background-color: crimson;
+}
